@@ -1,2 +1,2 @@
 # Online Chat Application
-complete mern stack chat Application using chatgpt api 
+–	Online Chat Application is a user-friendly application that allows users to interact with an AI-powered Chatbot which uses OpenAI API for AI integration. It's designed to understand and generate human-like text. It has been optimized to produce coherent and contextually relevant responses in a chat-like format. Users can input prompts or messages, and the model generates text in response, attempting to simulate a human conversation partner.
